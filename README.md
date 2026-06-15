@@ -7,3 +7,5 @@ associated publication:
 Plasman et al., 2020, Geophys. J. Int.  doi: 10.1093/gji/ggaa318
 
 Any request can be addressed to Christel Tiberi christel.tiberi[at]umontpellier.fr
+
+2026-06-15 : New version of the code, including corrections for the gradiometry part.
